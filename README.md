@@ -1,3 +1,5 @@
+# TL;DR i'm recoding it in full C++ using qt Library will be out soon 
+
 # Pack-Maker
 Pack maker : Create osu! pack in "one-click"
 
